@@ -1,0 +1,218 @@
+file 20053 1336069588                                           
+version 2
+run General-0-20120502-15:06:59-3584
+attr configname General
+attr datetime 20120502-15:06:59
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network DataCentricNet
+attr processid 3584
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 103 DataCentricNet.host[0].net ControlPackets ETV
+103	6460 40 301 27607 3 3.03020550963 2 1 114 115 12997
+vector 107 DataCentricNet.host[1].net ControlPackets ETV
+107	6500 69 302 110981 3 3.10913857075 3 2 393 506 166774
+vector 111 DataCentricNet.host[2].net ControlPackets ETV
+111	6569 70 303 110968 3 3.109138564826 3 3 389 507 164555
+vector 115 DataCentricNet.host[3].net ControlPackets ETV
+115	6639 71 304 110950 3 3.109138562466 3 4 387 510 163946
+vector 119 DataCentricNet.host[4].net ControlPackets ETV
+119	6710 101 305 110969 3 3.109138564826 4 5 390 924 318266
+vector 123 DataCentricNet.host[5].net ControlPackets ETV
+123	6811 128 306 110982 3 3.10913857075 5 6 394 1149 348945
+vector 127 DataCentricNet.host[6].net ControlPackets ETV
+127	6939 187 307 121422 3 3.119225307235 7 7 429 1956 672192
+vector 131 DataCentricNet.host[7].net ControlPackets ETV
+131	7126 188 308 138136 3 3.139176249995 7 8 478 2007 717671
+vector 135 DataCentricNet.host[8].net ControlPackets ETV
+135	7314 217 309 138152 3 3.139176255919 8 9 482 2347 842831
+vector 139 DataCentricNet.host[9].net ControlPackets ETV
+139	7531 190 310 148018 3 3.153085849371 7 10 515 2382 1012508
+vector 143 DataCentricNet.host[10].net ControlPackets ETV
+143	7721 72 311 107197 3 3.103621626529 3 11 363 482 143554
+vector 147 DataCentricNet.host[11].net ControlPackets ETV
+147	7793 42 312 21298 3 3.014160225319 2 12 101 113 10345
+vector 151 DataCentricNet.host[12].net ControlPackets ETV
+151	7835 72 313 107198 3 3.103621626529 3 13 364 486 144546
+vector 155 DataCentricNet.host[13].net ControlPackets ETV
+155	7907 71 314 110927 3 3.109138552466 3 14 384 514 161108
+vector 159 DataCentricNet.host[14].net ControlPackets ETV
+159	7978 72 315 110940 3 3.109138556608 3 15 386 524 164350
+vector 163 DataCentricNet.host[15].net ControlPackets ETV
+163	8050 102 316 110971 3 3.109138564826 4 16 391 935 319907
+vector 167 DataCentricNet.host[16].net ControlPackets ETV
+167	8152 101 317 111002 3 3.109138574088 4 17 395 897 281739
+vector 171 DataCentricNet.host[17].net ControlPackets ETV
+171	8253 102 318 138104 3 3.139176241777 4 18 474 1094 434524
+vector 175 DataCentricNet.host[18].net ControlPackets ETV
+175	8355 161 319 138138 3 3.139176249995 6 19 479 1751 661357
+vector 179 DataCentricNet.host[19].net ControlPackets ETV
+179	8516 189 320 138177 3 3.139176259257 7 20 486 2074 768420
+vector 183 DataCentricNet.host[20].net ControlPackets ETV
+183	8705 41 321 27571 3 3.03020549727 2 21 105 126 11466
+vector 187 DataCentricNet.host[21].net ControlPackets ETV
+187	8746 42 322 24405 3 3.020797442552 2 22 102 124 10888
+vector 191 DataCentricNet.host[22].net ControlPackets ETV
+191	8788 71 323 107165 3 3.103621617267 3 23 354 483 137081
+vector 195 DataCentricNet.host[23].net ControlPackets ETV
+195	8859 71 324 107174 3 3.103621623191 3 24 359 495 142001
+vector 199 DataCentricNet.host[24].net ControlPackets ETV
+199	8930 72 325 110929 3 3.109138552466 3 25 385 531 163491
+vector 203 DataCentricNet.host[25].net ControlPackets ETV
+203	9002 102 326 110952 3 3.109138562466 4 26 388 938 316356
+vector 207 DataCentricNet.host[26].net ControlPackets ETV
+207	9104 102 327 121424 3 3.119225307235 4 27 430 1029 385671
+vector 211 DataCentricNet.host[27].net ControlPackets ETV
+211	9206 102 328 138093 3 3.139176237635 4 28 472 1103 434413
+vector 215 DataCentricNet.host[28].net ControlPackets ETV
+215	9308 160 329 138117 3 3.139176247635 6 29 476 1867 736135
+vector 219 DataCentricNet.host[29].net ControlPackets ETV
+219	9468 187 330 138162 3 3.139176257634 7 30 484 2081 766867
+vector 223 DataCentricNet.host[30].net ControlPackets ETV
+223	9655 42 331 26922 3 3.028365462551 2 31 104 135 11777
+vector 227 DataCentricNet.host[31].net ControlPackets ETV
+227	9697 71 332 107127 3 3.103621604907 3 32 348 487 133577
+vector 231 DataCentricNet.host[32].net ControlPackets ETV
+231	9768 72 333 107140 3 3.103621609049 3 33 350 493 135689
+vector 235 DataCentricNet.host[33].net ControlPackets ETV
+235	9840 71 334 107166 3 3.103621617267 3 34 355 506 140870
+vector 239 DataCentricNet.host[34].net ControlPackets ETV
+239	9911 72 335 107199 3 3.103621626529 3 35 365 524 149826
+vector 243 DataCentricNet.host[35].net ControlPackets ETV
+243	9983 102 336 110973 3 3.109138564826 4 36 392 953 321333
+vector 247 DataCentricNet.host[36].net ControlPackets ETV
+247	10085 132 337 140272 3 3.143291671416 5 37 502 1586 679928
+vector 251 DataCentricNet.host[37].net ControlPackets ETV
+251	10217 161 338 140288 3 3.14329167734 6 38 506 2093 911519
+vector 255 DataCentricNet.host[38].net ControlPackets ETV
+255	10378 162 339 138140 3 3.139176249995 6 39 480 2013 831027
+vector 259 DataCentricNet.host[39].net ControlPackets ETV
+259	10540 159 340 138179 3 3.139176259257 6 40 487 1690 608196
+vector 263 DataCentricNet.host[40].net ControlPackets ETV
+263	10699 70 341 28685 3 3.032765492551 3 41 140 299 35205
+vector 267 DataCentricNet.host[41].net ControlPackets ETV
+267	10769 69 342 75120 3 3.06181353491 3 42 288 443 97477
+vector 271 DataCentricNet.host[42].net ControlPackets ETV
+271	10838 71 343 97397 3 3.085637585554 3 43 331 477 122019
+vector 275 DataCentricNet.host[43].net ControlPackets ETV
+275	10909 72 344 107150 3 3.103621614907 3 44 352 516 140240
+vector 279 DataCentricNet.host[44].net ControlPackets ETV
+279	10981 130 345 107183 3 3.103621624906 5 45 361 866 204994
+vector 283 DataCentricNet.host[45].net ControlPackets ETV
+283	11111 101 346 116438 3 3.114031134284 4 46 416 742 214422
+vector 287 DataCentricNet.host[46].net ControlPackets ETV
+287	11212 132 347 140240 3 3.143291663198 5 47 498 1606 687470
+vector 291 DataCentricNet.host[47].net ControlPackets ETV
+291	11344 132 348 140274 3 3.143291671416 5 48 503 1670 724518
+vector 295 DataCentricNet.host[48].net ControlPackets ETV
+295	11476 190 349 140322 3 3.143291680678 7 49 510 2537 1097047
+vector 299 DataCentricNet.host[49].net ControlPackets ETV
+299	11666 246 350 150122 3 3.157477471999 9 50 518 3018 1228652
+vector 303 DataCentricNet.host[50].net ControlPackets ETV
+303	11912 71 351 29520 3 3.033725482551 3 51 141 317 38107
+vector 307 DataCentricNet.host[51].net ControlPackets ETV
+307	11983 72 352 107130 3 3.103621604907 3 52 349 523 139389
+vector 311 DataCentricNet.host[52].net ControlPackets ETV
+311	12055 72 353 107142 3 3.103621609049 3 53 351 530 141886
+vector 315 DataCentricNet.host[53].net ControlPackets ETV
+315	12127 130 354 107167 3 3.103621617267 5 54 356 982 250098
+vector 319 DataCentricNet.host[54].net ControlPackets ETV
+319	12257 101 355 107200 3 3.103621626529 4 55 366 697 175197
+vector 323 DataCentricNet.host[55].net ControlPackets ETV
+323	12358 101 356 116446 3 3.114031138426 4 56 417 758 217698
+vector 327 DataCentricNet.host[56].net ControlPackets ETV
+327	12459 161 357 140229 3 3.143291659056 6 57 496 1938 783512
+vector 331 DataCentricNet.host[57].net ControlPackets ETV
+331	12620 162 358 140253 3 3.143291669056 6 58 500 2140 933134
+vector 335 DataCentricNet.host[58].net ControlPackets ETV
+335	12782 161 359 140301 3 3.143291679055 6 59 508 2105 901743
+vector 339 DataCentricNet.host[59].net ControlPackets ETV
+339	12943 339 360 150136 3 3.157477477923 12 60 519 4507 1955823
+vector 343 DataCentricNet.host[60].net ControlPackets ETV
+343	13282 130 361 107168 3 3.103621617267 5 61 357 1008 259444
+vector 347 DataCentricNet.host[61].net ControlPackets ETV
+347	13412 130 362 107151 3 3.103621614907 5 62 353 1001 255287
+vector 351 DataCentricNet.host[62].net ControlPackets ETV
+351	13542 130 363 107169 3 3.103621617267 5 63 358 1009 260275
+vector 355 DataCentricNet.host[63].net ControlPackets ETV
+355	13672 101 364 107175 3 3.103621623191 4 64 360 849 236969
+vector 359 DataCentricNet.host[64].net ControlPackets ETV
+359	13773 101 365 107962 3 3.106023596109 4 65 374 872 251458
+vector 363 DataCentricNet.host[65].net ControlPackets ETV
+363	13874 161 366 140230 3 3.143291659056 6 66 497 1727 641371
+vector 367 DataCentricNet.host[66].net ControlPackets ETV
+367	14035 161 367 140242 3 3.143291663198 6 67 499 1791 689825
+vector 371 DataCentricNet.host[67].net ControlPackets ETV
+371	14196 132 368 140276 3 3.143291671416 5 68 504 1659 693617
+vector 375 DataCentricNet.host[68].net ControlPackets ETV
+375	14328 244 369 140324 3 3.143291680678 9 69 511 3027 1211365
+vector 379 DataCentricNet.host[69].net ControlPackets ETV
+379	14572 218 370 140032 3 3.142810444498 8 70 495 2548 968634
+vector 383 DataCentricNet.host[70].net ControlPackets ETV
+383	14790 101 371 107201 3 3.103621626529 4 71 367 878 245508
+vector 387 DataCentricNet.host[71].net ControlPackets ETV
+387	14891 101 372 107184 3 3.103621624906 4 72 362 858 237068
+vector 391 DataCentricNet.host[72].net ControlPackets ETV
+391	14992 130 373 107202 3 3.103621626529 5 73 368 1175 338149
+vector 395 DataCentricNet.host[73].net ControlPackets ETV
+395	15122 100 374 107946 3 3.10602358847 4 74 370 878 248722
+vector 399 DataCentricNet.host[74].net ControlPackets ETV
+399	15222 188 375 107979 3 3.106023597732 7 75 376 1473 368677
+vector 403 DataCentricNet.host[75].net ControlPackets ETV
+403	15410 160 376 140254 3 3.143291669056 6 76 501 1531 523883
+vector 407 DataCentricNet.host[76].net ControlPackets ETV
+407	15570 131 377 140278 3 3.143291671416 5 77 505 1367 501363
+vector 411 DataCentricNet.host[77].net ControlPackets ETV
+411	15701 246 378 140290 3 3.14329167734 9 78 507 2833 1039739
+vector 415 DataCentricNet.host[78].net ControlPackets ETV
+415	15947 188 379 127917 3 3.125754574341 7 79 460 1909 606273
+vector 419 DataCentricNet.host[79].net ControlPackets ETV
+419	16135 219 380 150704 3 3.16003671417 8 80 520 2675 1062245
+vector 423 DataCentricNet.host[80].net ControlPackets ETV
+423	16354 100 381 107947 3 3.10602358847 4 81 371 902 255534
+vector 427 DataCentricNet.host[81].net ControlPackets ETV
+427	16454 99 382 107930 3 3.10602358611 4 82 369 900 253346
+vector 431 DataCentricNet.host[82].net ControlPackets ETV
+431	16553 129 383 107948 3 3.10602358847 5 83 372 1086 289422
+vector 435 DataCentricNet.host[83].net ControlPackets ETV
+435	16682 130 384 107954 3 3.106023594394 5 84 373 1096 293494
+vector 439 DataCentricNet.host[84].net ControlPackets ETV
+439	16812 160 385 140325 3 3.143291680678 6 85 512 1655 588135
+vector 443 DataCentricNet.host[85].net ControlPackets ETV
+443	16972 276 386 140302 3 3.143291679055 10 86 509 2855 943999
+vector 447 DataCentricNet.host[86].net ControlPackets ETV
+447	17248 275 387 140326 3 3.143291680678 10 87 513 2902 973202
+vector 451 DataCentricNet.host[87].net ControlPackets ETV
+451	17523 218 388 127890 3 3.125754560199 8 88 456 2414 831650
+vector 455 DataCentricNet.host[88].net ControlPackets ETV
+455	17741 246 389 127911 3 3.125754568417 9 89 459 2642 881644
+vector 459 DataCentricNet.host[89].net ControlPackets ETV
+459	17987 218 390 127938 3 3.125754577679 8 90 463 2263 724077
+vector 463 DataCentricNet.host[90].net ControlPackets ETV
+463	18205 101 391 107980 3 3.106023597732 4 91 377 945 272239
+vector 467 DataCentricNet.host[91].net ControlPackets ETV
+467	18306 129 392 107963 3 3.106023596109 5 92 375 1110 297974
+vector 471 DataCentricNet.host[92].net ControlPackets ETV
+471	18435 129 393 107981 3 3.106023597732 5 93 378 1116 301922
+vector 475 DataCentricNet.host[93].net ControlPackets ETV
+475	18564 189 394 114596 3 3.112435607661 7 94 406 1845 563901
+vector 479 DataCentricNet.host[94].net ControlPackets ETV
+479	18753 188 395 114608 3 3.112435611803 7 95 407 1770 511758
+vector 483 DataCentricNet.host[95].net ControlPackets ETV
+483	18941 186 396 114635 3 3.112435620021 7 96 410 1793 526271
+vector 487 DataCentricNet.host[96].net ControlPackets ETV
+487	19127 217 397 114668 3 3.112435629283 8 97 414 2174 660828
+vector 491 DataCentricNet.host[97].net ControlPackets ETV
+491	19344 276 398 127884 3 3.125754556057 10 98 455 3001 999683
+vector 495 DataCentricNet.host[98].net ControlPackets ETV
+495	19620 245 399 127899 3 3.125754566057 9 99 457 2666 890702
+vector 499 DataCentricNet.host[99].net ControlPackets ETV
+499	19865 188 400 127926 3 3.125754576056 7 100 461 2056 677690

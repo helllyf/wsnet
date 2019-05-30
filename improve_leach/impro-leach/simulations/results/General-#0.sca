@@ -1,0 +1,23 @@
+version 2
+run General-0-20190512-10:45:09-14820
+attr configname General
+attr datetime 20190512-10:45:09
+attr experiment General
+attr inifile base_net.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network impro_leach.simulations.Base_net
+attr processid 14820
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.Nnodes 100
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+scalar Base_net.baseStation endTime 0.001280099938
+scalar Base_net.baseStation rounds 0
+

@@ -1,0 +1,9 @@
+CONNECTION
+ÿ
+AAA00000015
+best_deliver_to
+0
+0
+best_obtain_from
+AAA0000002A
+270F

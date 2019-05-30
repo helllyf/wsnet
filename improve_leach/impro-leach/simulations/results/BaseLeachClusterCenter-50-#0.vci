@@ -1,0 +1,126 @@
+file 4521 1557629710                                            
+version 2
+run BaseLeachClusterCenter-0-20190512-10:53:20-16836
+attr configname BaseLeachClusterCenter
+attr datetime 20190512-10:53:20
+attr experiment BaseLeachClusterCenter
+attr inifile base_net.ini
+attr iterationvars $0=50
+attr iterationvarsf 50-
+attr measurement $0=50
+attr network impro_leach.simulations.Base_net
+attr processid 16836
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.P 0.05
+param *.edge 50
+param *.node[*].DistAwareCH true
+param *.node[*].EnergyAwareCH false
+param *.Nnodes 20
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+vector 0 Base_net.node[0] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 1 Base_net.node[1] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 2 Base_net.node[2] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 3 Base_net.node[3] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 4 Base_net.node[4] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 5 Base_net.node[5] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 6 Base_net.node[6] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 7 Base_net.node[7] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 8 Base_net.node[8] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 9 Base_net.node[9] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 10 Base_net.node[10] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 11 Base_net.node[11] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 12 Base_net.node[12] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 13 Base_net.node[13] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 14 Base_net.node[14] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 15 Base_net.node[15] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 16 Base_net.node[16] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 17 Base_net.node[17] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 18 Base_net.node[18] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 19 Base_net.node[19] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+0	3380 53 83 258 0.00448207071 1.764481966379 2 0.4989 0.5 0.9989 0.49890121
+1	3433 53 84 230 0.02448209428 1.484481636396 2 0.4989 0.5 0.9989 0.49890121
+2	3486 53 86 240 0.04448211785 1.584481754247 2 0.4989 0.5 0.9989 0.49890121
+3	3539 54 89 226 0.064482141421 1.444481589255 2 0.4989 0.5 0.9989 0.49890121
+4	3593 54 90 254 0.084482164991 1.724481919239 2 0.4989 0.5 0.9989 0.49890121
+5	3647 54 92 246 0.104482188561 1.644481824958 2 0.4989 0.5 0.9989 0.49890121
+6	3701 54 94 228 0.124482212131 1.464481612826 2 0.4989 0.5 0.9989 0.49890121
+7	3755 54 97 232 0.144482235702 1.504481659966 2 0.4989 0.5 0.9989 0.49890121
+8	3809 54 98 238 0.164482259272 1.564481730677 2 0.4989 0.5 0.9989 0.49890121
+9	3863 55 100 248 0.184482282842 1.664481848528 2 0.4989 0.5 0.9989 0.49890121
+10	3918 57 102 252 0.204482306412 1.704481895668 2 0.4989 0.5 0.9989 0.49890121
+11	3975 57 104 244 0.224482329982 1.624481801387 2 0.4989 0.5 0.9989 0.49890121
+12	4032 57 107 234 0.244482353553 1.524481683536 2 0.4989 0.5 0.9989 0.49890121
+13	4089 57 108 222 0.264482377123 1.404481542115 2 0.4989 0.5 0.9989 0.49890121
+14	4146 88 110 260 0.284482400693 1.784482989949 3 0.49871 0.5 1.49761 0.7476128741
+15	4234 57 112 224 0.304482424263 1.424481565685 2 0.4989 0.5 0.9989 0.49890121
+16	4291 57 115 250 0.324482447834 1.684481872098 2 0.4989 0.5 0.9989 0.49890121
+17	4348 57 116 242 0.344482471404 1.604481777817 2 0.4989 0.5 0.9989 0.49890121
+18	4405 57 118 256 0.364482494974 1.744481942809 2 0.4989 0.5 0.9989 0.49890121
+19	4462 57 120 236 0.384482518544 1.544481707107 2 0.4989 0.5 0.9989 0.49890121
+

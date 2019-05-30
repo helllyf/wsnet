@@ -1,0 +1,9 @@
+CONNECTION
+ÿ
+AAA0000003C
+best_deliver_to
+AAA00000026
+10
+best_obtain_from
+no_best_obtain_from
+not applicable

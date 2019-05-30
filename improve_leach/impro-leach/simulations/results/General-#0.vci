@@ -1,0 +1,522 @@
+file 894760 1557628977                                          
+version 2
+run General-0-20190512-10:41:12-1644
+attr configname General
+attr datetime 20190512-10:41:12
+attr experiment General
+attr inifile base_net.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network impro_leach.simulations.Base_net
+attr processid 1644
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.Nnodes 100
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+vector 0 Base_net.node[20] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 1 Base_net.node[32] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 2 Base_net.node[54] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 3 Base_net.node[98] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 4 Base_net.node[41] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 5 Base_net.node[62] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 6 Base_net.node[63] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 7 Base_net.node[37] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 8 Base_net.node[25] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 9 Base_net.node[72] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 10 Base_net.node[83] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 11 Base_net.node[99] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 12 Base_net.node[87] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 13 Base_net.node[30] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 14 Base_net.node[42] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 15 Base_net.node[3] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 16 Base_net.node[19] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 17 Base_net.node[36] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 18 Base_net.node[33] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 19 Base_net.node[81] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 20 Base_net.node[51] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 21 Base_net.node[76] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 22 Base_net.node[93] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 23 Base_net.node[85] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 24 Base_net.node[1] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 25 Base_net.node[74] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 26 Base_net.node[12] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 27 Base_net.node[31] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 28 Base_net.node[73] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 29 Base_net.node[9] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 30 Base_net.node[95] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 31 Base_net.node[92] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 32 Base_net.node[49] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 33 Base_net.node[38] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 34 Base_net.node[10] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 35 Base_net.node[79] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 36 Base_net.node[96] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 37 Base_net.node[47] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 38 Base_net.node[23] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 39 Base_net.node[89] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 40 Base_net.node[48] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 41 Base_net.node[17] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 42 Base_net.node[55] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 43 Base_net.node[35] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 44 Base_net.node[56] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 45 Base_net.node[28] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 46 Base_net.node[69] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 47 Base_net.node[90] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 48 Base_net.node[65] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 49 Base_net.node[2] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 50 Base_net.node[6] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 51 Base_net.node[66] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 52 Base_net.node[43] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 53 Base_net.node[78] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 54 Base_net.node[40] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 55 Base_net.node[77] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 56 Base_net.node[14] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 57 Base_net.node[68] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 58 Base_net.node[7] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 59 Base_net.node[82] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 60 Base_net.node[53] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 61 Base_net.node[71] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 62 Base_net.node[5] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 63 Base_net.node[94] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 64 Base_net.node[75] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 65 Base_net.node[21] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 66 Base_net.node[61] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 67 Base_net.node[67] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 68 Base_net.node[13] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 69 Base_net.node[11] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 70 Base_net.node[16] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 71 Base_net.node[39] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 72 Base_net.node[0] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 73 Base_net.node[84] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 74 Base_net.node[24] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 75 Base_net.node[86] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 76 Base_net.node[70] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 77 Base_net.node[22] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 78 Base_net.node[18] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 79 Base_net.node[26] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 80 Base_net.node[59] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 81 Base_net.node[60] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 82 Base_net.node[44] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 83 Base_net.node[52] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 84 Base_net.node[97] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 85 Base_net.node[64] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 86 Base_net.node[46] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 87 Base_net.node[27] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 88 Base_net.node[57] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 89 Base_net.node[91] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 90 Base_net.node[34] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 91 Base_net.node[58] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 92 Base_net.node[8] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 93 Base_net.node[50] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 94 Base_net.node[88] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 95 Base_net.node[45] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 96 Base_net.node[15] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 97 Base_net.node[4] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 98 Base_net.node[29] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 99 Base_net.node[80] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+0	14263 9426 790 247517 0.004481299814 756.087001131117 261 0.0038347999999997 0.5 71.5496852 23.287603682217
+1	23689 8969 791 242551 0.004481299814 705.286832236303 249 0.016648 0.5 70.5777164 24.619096262364
+2	32658 9251 792 242575 0.004481299814 705.526833435556 252 0.0012651999999998 0.5 52.19707 16.07090448896
+3	41909 8238 793 230959 0.004481299814 648.066641255243 229 0.0147066 0.5 64.6598898 22.318155383158
+4	50147 9206 798 244370 0.024481399752 720.606883804187 255 0.0072066 0.5 65.513369 21.339553689105
+5	59353 9523 799 247525 0.024481399752 756.167001530868 263 0.0109994 0.5 81.2873134 29.173918320911
+6	68876 9148 800 242581 0.024481399752 705.586833735369 252 0.0078556000000002 0.5 67.8481642 23.549769189007
+7	78024 8452 801 232748 0.024481399752 657.226672036073 234 0.0093304000000003 0.5 58.566897 19.123147147292
+8	86476 8063 806 223831 0.04448149969 621.306552510512 224 0.010059 0.5 56.2485254 18.469509562326
+9	94539 7874 807 220067 0.04448149969 610.226517132545 219 0.0100986 0.5 53.951924 18.369648635556
+10	102413 9818 808 248138 0.04448149969 765.127031312321 265 0.0071270000000004 0.5 74.540445 25.328808846141
+11	112231 9890 809 248142 0.04448149969 765.167031512196 263 0.00021160000000077 0.5 82.5691246 30.172790585925
+12	122121 9206 814 243065 0.064481599627 708.086840230701 248 0.0015482000000003 0.5 67.83265 23.813372068298
+13	131327 9375 815 244785 0.064481599627 726.166901593108 253 0.0145538 0.5 72.5056898 25.428182159877
+14	140702 9889 816 248130 0.064481599627 765.04703091257 267 0.0035552000000003 0.5 80.2225424 28.060987670333
+15	150591 9787 817 246968 0.064481599627 747.066971049851 262 0.0053099999999999 0.5 66.1923232 22.012294568545
+16	160378 8620 822 229956 0.084481699565 645.226632060969 232 3.0400000000012e-005 0.5 65.7872314 22.389472308129
+17	168998 9059 823 240762 0.084481699565 693.046791061946 244 0.0074621999999996 0.5 65.8949892 22.699345418723
+18	178057 9443 824 240267 0.084481699565 690.566783666551 248 0.013808199999999 0.5 72.0263472 25.619567097916
+19	187500 9711 825 247112 0.084481699565 750.326982342818 262 0.0102846 0.5 75.4653686 25.904641739551
+20	197211 8619 830 232818 0.104481799503 657.926674533895 232 0.0012589999999996 0.5 64.6002832 22.298326264744
+21	205830 8495 831 230040 0.104481799503 646.066636258355 229 0.0041228000000001 0.5 55.8301578 18.572054192766
+22	214325 9892 832 244821 0.104481799503 726.526903391988 258 0.0085818000000011 0.5 75.8962764 28.257645667106
+23	224217 7299 833 201379 0.104481799503 549.2063121602 198 0.0106386 0.5 49.879597 16.493820120882
+24	231516 8485 838 229936 0.124481899441 645.026631061592 229 0.015621 0.5 60.6180306 20.172340750074
+25	240001 9018 839 239618 0.124481899441 687.086771274269 243 0.0083131999999999 0.5 63.5216938 21.168596021197
+26	249019 9998 840 248068 0.124481899441 762.047020918794 266 0.0033319999999992 0.5 84.8387256 30.92506484207
+27	259017 8317 841 227602 0.124481899441 636.526602578708 223 0.00055720000000034 0.5 61.1304526 21.319529301811
+28	267334 7393 846 198753 0.144481999378 543.18629207271 199 0.0021550000000001 0.5 50.1859854 17.360720565935
+29	274727 9337 847 244031 0.144481999378 717.026870912216 252 0.0020132 0.5 67.7038748 23.285480393217
+30	284064 9987 848 248301 0.144481999378 771.087051099997 267 0.014575200000001 0.5 83.6443254 29.397150924903
+31	294051 9779 849 248082 0.144481999378 762.187021618358 264 0.017459 0.5 75.1907384 26.14626355496
+32	303830 8994 854 239612 0.164482099316 687.066771174331 243 0.0123446 0.5 65.369965 21.927354203588
+33	312824 9630 855 244789 0.164482099316 726.206901792984 256 0.0091454000000005 0.5 69.6214474 23.517488256081
+34	322454 9980 856 248294 0.164482099316 771.007050700246 267 0.007307800000001 0.5 91.709097 35.232906416341
+35	332434 7809 857 220077 0.164482099316 610.326517632234 211 0.0069208 0.5 48.3433482 15.377648702551
+36	340243 8820 862 235097 0.184482199254 666.186700817526 233 0.0023803999999994 0.5 69.5278276 24.448261812168
+37	349063 9405 863 244797 0.184482199254 726.286902192735 253 0.0080709999999996 0.5 77.8323502 29.349619010963
+38	358468 9354 864 242543 0.184482199254 705.206831836552 252 0.0097449999999998 0.5 65.3572958 22.37535313972
+39	367822 9000 865 243054 0.184482199254 708.026840930888 243 0.0144486 0.5 64.7283552 21.869123736815
+40	376822 8425 870 229998 0.204482299192 645.646634159662 227 0.0099015999999998 0.5 59.9927222 20.195459978567
+41	385247 8547 871 228635 0.204482299192 639.366612772982 231 0.0130784 0.5 60.9487158 20.629184378989
+42	393794 9269 872 242577 0.204482299192 705.546833535493 249 0.0025605999999999 0.5 70.164902 25.679080748474
+43	403063 9948 873 247090 0.204482299192 750.106981243503 261 0.0029707999999993 0.5 75.085066 26.22827226354
+44	413011 8669 878 234102 0.224482399129 663.026691024248 234 0.016822 0.5 65.3171426 22.371484285145
+45	421680 8319 879 226747 0.224482399129 634.086595383189 225 0.00066660000000019 0.5 53.8229984 17.385418005324
+46	429999 9872 880 248074 0.224482399129 762.107021218607 266 0.0042711999999998 0.5 79.127791 27.512922275012
+47	439871 8165 881 219521 0.224482399129 606.246502241819 220 0.0093267999999998 0.5 63.4288918 23.360841327931
+48	448036 6639 886 179803 0.244482499067 489.086111685053 180 0.0028809999999998 0.5 49.4169604 16.813838119683
+49	454675 7976 887 219949 0.244482499067 609.046511236218 216 0.0174476 0.5 56.4491138 19.448362460021
+50	462651 9840 888 248127 0.244482499067 765.007030712694 265 0.0085754000000001 0.5 80.902327 28.966275351464
+51	472491 9831 889 247527 0.244482499067 756.187001630806 261 0.015760200000001 0.5 77.7520228 27.713488429602
+52	482322 9245 894 242565 0.264482599005 705.426832935867 250 0.0072462 0.5 62.9358552 20.108598079989
+53	491567 8463 895 231658 0.264482599005 651.246652148459 228 0.0084324000000005 0.5 60.0737116 19.980297919032
+54	500030 9958 896 247092 0.264482599005 750.126981343441 263 0.015186599999999 0.5 77.1555702 28.154686495916
+55	509988 7087 897 195177 0.264482599005 534.226261291257 191 0.00053919999999975 0.5 49.470179 16.865084056584
+56	517075 8225 902 226140 0.284482698943 630.146581692338 222 0.0147804 0.5 59.2464978 20.051291568567
+57	525300 8596 903 235127 0.284482698943 666.386701816903 231 4.0799999999609e-005 0.5 60.2200846 19.81374165001
+58	533896 9408 904 242527 0.284482698943 705.04683103705 252 0.0060170000000001 0.5 70.2831746 25.151042279602
+59	543304 7726 905 217348 0.284482698943 600.106481554703 209 0.0176208 0.5 49.487264 15.81920601645
+60	551030 9598 910 245852 0.30448279888 735.186931674374 258 0.0164854 0.5 76.6535904 28.070244710017
+61	560628 9878 911 248297 0.30448279888 771.047050900122 266 0.0050522000000004 0.5 79.171534 27.394798810172
+62	570506 8263 912 224622 0.30448279888 624.82656510267 223 0.0170038 0.5 57.5905874 19.409123448885
+63	578769 9723 913 247541 0.30448379888 756.32700233037 262 0.0049124000000002 0.5 69.5145266 22.595696588177
+64	588492 8266 917 226789 0.324482898818 634.506597481882 222 0.0016308000000002 0.5 59.4706952 20.568847461511
+65	596758 7166 918 200272 0.324482898818 546.026300266984 194 5.8199999999814e-005 0.5 48.52548 15.957667368414
+66	603924 9085 919 238537 0.324482898818 681.206750886344 244 0.00010859999999979 0.5 67.7865752 23.50753466324
+67	613009 9797 923 248295 0.344482998756 771.027050800184 265 0.0111322 0.5 81.3564122 29.029030531302
+68	622806 7632 924 212755 0.344482998756 585.766433883769 206 0.0042381999999998 0.5 55.9672228 20.236530071889
+69	630438 9756 925 247513 0.344482998756 756.047000931242 263 0.0043309999999996 0.5 73.9854104 24.544691473357
+70	640194 7312 929 203217 0.364483098694 555.686333546258 198 0.0029658 0.5 49.3926462 16.625142178708
+71	647506 7352 930 206081 0.364483098694 564.586363027897 198 0.0005536000000002 0.5 48.7370404 16.116107999301
+72	654858 9283 931 242335 0.364483098694 702.326822442402 250 0.0151436 0.5 71.3237626 25.340959040161
+73	664141 9000 935 240223 0.384483198631 690.166781667796 243 0.014338 0.5 61.5194086 20.494543123997
+74	673141 7365 936 195225 0.384483198631 534.386262090759 188 0.0013813999999995 0.5 46.105717 16.083195323586
+75	680506 9633 937 242597 0.384483198631 705.746834534871 249 0.0082505999999993 0.5 60.86962 19.692581628375
+76	690139 8367 941 226757 0.404483298569 634.186595882878 225 0.0042780000000001 0.5 60.2811532 20.775968086207
+77	698506 7499 942 211133 0.404483298569 579.526412696964 201 0.0007037999999997 0.5 49.6743872 16.740215681888
+78	706005 8544 943 229574 0.404483298569 642.146621667442 231 0.0090154 0.5 56.469187 18.585600651092
+79	714549 8368 947 229962 0.424483398507 645.286632360783 226 0.0062620000000002 0.5 64.0911884 22.297695578518
+80	722917 7703 948 215050 0.424483398507 595.446467262981 208 0.0027447999999997 0.5 52.4862736 17.555681681627
+81	730620 8904 949 236703 0.424483398507 672.126721505265 240 0.0073668000000002 0.5 58.9486402 19.099172021151
+82	739524 10014 953 247521 0.444483498445 756.127001330993 263 0.0027543999999994 0.5 70.936658 23.590374748325
+83	749538 6794 954 194310 0.444483498445 531.746253895863 184 0.00052639999999996 0.5 47.7387502 16.236394347494
+84	756332 8500 955 230070 0.444483498445 646.366637757422 230 0.0162884 0.5 61.60187 20.294939614754
+85	764832 8386 959 230967 0.464483598382 648.086640355181 226 0.0012800000000001 0.5 63.9633142 21.75547122749
+86	773218 6689 960 190739 0.464483598382 519.986215120012 181 0.0027206000000001 0.5 47.9549586 16.499148346421
+87	779907 9509 961 245820 0.464483598382 735.026930874872 256 0.0091310000000001 0.5 75.3296966 26.880722029148
+88	789416 9051 965 239642 0.48448369832 687.206770873896 242 0.00052839999999983 0.5 60.429966 19.220213774884
+89	798467 7413 966 206078 0.48448369832 564.566362927959 200 0.00031899999999959 0.5 47.2491324 15.261824319991
+90	805880 9291 967 243700 0.48448369832 714.626862916573 250 0.00058700000000039 0.5 64.742216 21.434085478744
+91	815171 8457 971 230983 0.504483798258 648.126640555057 229 0.0022494000000002 0.5 58.5704962 19.424794486809
+92	823628 9133 972 242529 0.504483798258 705.066831136987 246 0.0098640000000003 0.5 66.1310178 22.762699643607
+93	832761 9721 973 247995 0.504484798258 759.00829082508 262 0.0092255999999999 0.5 75.3889368 25.700504302494
+94	842482 8783 976 235061 0.524483898196 666.066701217899 237 0.0083722000000001 0.5 60.0251446 19.748334292359
+95	851265 8910 977 237304 0.524483898196 675.146731598978 238 0.0027374000000003 0.5 60.5365268 20.576235255445
+96	860175 9371 980 244779 0.544483998133 726.106901293295 252 0.0073798000000003 0.5 72.4471476 26.166721358979
+97	869546 6079 981 168555 0.544483998133 459.226012446857 165 0.0115568 0.5 38.7122842 12.035815422745
+98	875625 9225 984 242547 0.564485098071 705.246832036427 249 0.0148878 0.5 66.2291868 22.544420099058
+99	884850 9908 985 248299 0.564485098071 771.067051000059 267 0.0096066000000001 0.5 83.2346042 29.317136022581
+

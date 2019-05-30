@@ -1,0 +1,26 @@
+version 2
+run BaseLeach-0-20190517-11:21:33-18108
+attr configname BaseLeach
+attr datetime 20190517-11:21:33
+attr experiment BaseLeach
+attr inifile base_net.ini
+attr iterationvars $0=50
+attr iterationvarsf 50-
+attr measurement $0=50
+attr network impro_leach.simulations.Base_net
+attr processid 18108
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.P 0.10
+param *.edge 50
+param *.Nnodes 20
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+scalar Base_net.node[16] firstNodeDead 967
+scalar Base_net.baseStation endTime 1769.6050779266
+scalar Base_net.baseStation rounds 1264
+

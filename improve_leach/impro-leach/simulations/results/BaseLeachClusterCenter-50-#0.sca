@@ -1,0 +1,27 @@
+version 2
+run BaseLeachClusterCenter-0-20190512-10:53:20-16836
+attr configname BaseLeachClusterCenter
+attr datetime 20190512-10:53:20
+attr experiment BaseLeachClusterCenter
+attr inifile base_net.ini
+attr iterationvars $0=50
+attr iterationvarsf 50-
+attr measurement $0=50
+attr network impro_leach.simulations.Base_net
+attr processid 16836
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.P 0.05
+param *.edge 50
+param *.node[*].DistAwareCH true
+param *.node[*].EnergyAwareCH false
+param *.Nnodes 20
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+scalar Base_net.baseStation endTime 2.80448201352
+scalar Base_net.baseStation rounds 2
+

@@ -1,0 +1,25 @@
+version 2
+run Direct-tx-1-20190511-15:16:51-6976
+attr configname Direct-tx
+attr datetime 20190511-15:16:51
+attr experiment Direct-tx
+attr inifile base_net.ini
+attr iterationvars $0=50
+attr iterationvarsf 50-
+attr measurement $0=50
+attr network impro_leach.simulations.Base_net
+attr processid 6976
+attr repetition 1
+attr replication #1
+attr resultdir results
+attr runnumber 1
+attr seedset 1
+param *.P 0
+param *.edge 50
+param *.Nnodes 100
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+scalar Base_net.baseStation endTime 0.00256104714
+scalar Base_net.baseStation rounds 0
+

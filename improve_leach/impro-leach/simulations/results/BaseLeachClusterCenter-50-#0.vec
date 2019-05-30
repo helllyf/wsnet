@@ -1,0 +1,146 @@
+version 2
+run BaseLeachClusterCenter-0-20190512-10:53:20-16836
+attr configname BaseLeachClusterCenter
+attr datetime 20190512-10:53:20
+attr experiment BaseLeachClusterCenter
+attr inifile base_net.ini
+attr iterationvars $0=50
+attr iterationvarsf 50-
+attr measurement $0=50
+attr network impro_leach.simulations.Base_net
+attr processid 16836
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param *.P 0.05
+param *.edge 50
+param *.node[*].DistAwareCH true
+param *.node[*].EnergyAwareCH false
+param *.Nnodes 20
+param *.node[*].bitrate 100000
+param *.baseStation.bitrate 100000
+
+vector 0 Base_net.node[0] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 1 Base_net.node[1] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 2 Base_net.node[2] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 3 Base_net.node[3] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 4 Base_net.node[4] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 5 Base_net.node[5] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 6 Base_net.node[6] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 7 Base_net.node[7] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 8 Base_net.node[8] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 9 Base_net.node[9] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 10 Base_net.node[10] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 11 Base_net.node[11] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 12 Base_net.node[12] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 13 Base_net.node[13] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 14 Base_net.node[14] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 15 Base_net.node[15] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 16 Base_net.node[16] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 17 Base_net.node[17] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 18 Base_net.node[18] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+vector 19 Base_net.node[19] batteryLevel:vector ETV
+attr interpolationmode none
+attr source energy
+attr title "battery level, vector"
+0	83	0.00448207071	0.5
+0	258	1.764481966379	0.4989
+1	84	0.02448209428	0.5
+1	230	1.484481636396	0.4989
+2	86	0.04448211785	0.5
+2	240	1.584481754247	0.4989
+3	89	0.064482141421	0.5
+3	226	1.444481589255	0.4989
+4	90	0.084482164991	0.5
+4	254	1.724481919239	0.4989
+5	92	0.104482188561	0.5
+5	246	1.644481824958	0.4989
+6	94	0.124482212131	0.5
+6	228	1.464481612826	0.4989
+7	97	0.144482235702	0.5
+7	232	1.504481659966	0.4989
+8	98	0.164482259272	0.5
+8	238	1.564481730677	0.4989
+9	100	0.184482282842	0.5
+9	248	1.664481848528	0.4989
+10	102	0.204482306412	0.5
+10	252	1.704481895668	0.4989
+11	104	0.224482329982	0.5
+11	244	1.624481801387	0.4989
+12	107	0.244482353553	0.5
+12	234	1.524481683536	0.4989
+13	108	0.264482377123	0.5
+13	222	1.404481542115	0.4989
+14	110	0.284482400693	0.5
+14	260	1.784482989949	0.4989
+14	260	1.784482989949	0.49871
+15	112	0.304482424263	0.5
+15	224	1.424481565685	0.4989
+16	115	0.324482447834	0.5
+16	250	1.684481872098	0.4989
+17	116	0.344482471404	0.5
+17	242	1.604481777817	0.4989
+18	118	0.364482494974	0.5
+18	256	1.744481942809	0.4989
+19	120	0.384482518544	0.5
+19	236	1.544481707107	0.4989
+

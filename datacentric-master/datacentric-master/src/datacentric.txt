@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server removed a file since it was found to match a filter.
+File name: "winmail.dat->datacentric.zip->datacentric.exe"
+Filter name: "FILE FILTER= File Extensions: *.exe"
