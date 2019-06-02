@@ -1,4 +1,0 @@
-datacentric
-===========
-
-Data Centric Routing

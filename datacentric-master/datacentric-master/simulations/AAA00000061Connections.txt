@@ -1,9 +1,0 @@
-CONNECTION
-ÿ
-AAA00000061
-best_deliver_to
-AAA00000054
-10
-best_obtain_from
-no_best_obtain_from
-not applicable

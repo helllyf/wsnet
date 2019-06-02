@@ -1,3 +1,0 @@
-package datacentric;
-
-@license(LGPL);
